@@ -12,4 +12,4 @@ Para añadir un fichero a nuestro repositorio remoto de GitHub tenemos que segui
 + git commit -m "Comentario sobre el commit"
 + git push
 
-	./tarea1git/images/electrocat.png
+	./tarea1git/images/gato.png
